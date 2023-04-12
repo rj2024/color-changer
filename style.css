@@ -1,0 +1,17 @@
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.btn{
+    color: white;
+    background-color: cadetblue;
+    padding: 16px;
+    border: 3px solid greenyellow;
+    border-radius: 20px;
+    cursor: pointer;
+
+}
